@@ -24,6 +24,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "save-dev": "0.0.1-security"
   }
 }
